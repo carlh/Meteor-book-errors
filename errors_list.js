@@ -1,5 +1,5 @@
 Template.meteorErrors.helpers({
-  errors: Errors.collection.find()
+  errors: function() { return  Errors.collection.find(); }
 });
 
 Template.meteorError.rendered = function(){
