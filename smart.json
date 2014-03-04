@@ -1,0 +1,9 @@
+{
+  "name": "TMB_Errors",
+  "description" : "A pattern to display error messages to users",
+  "homepage": "https://github.com/carlh/Meteor-book-errors",
+  "author": "Carl Hinkle",
+  "git": "https://github.com/carlh/Meteor-book-errors",
+  "packages":{
+  }
+}
