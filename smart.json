@@ -1,6 +1,6 @@
 {
-  "name": "TMB_Errors",
-  "version": "0.0.2",
+  "name": "book-errors",
+  "version": "0.0.3",
   "description" : "A pattern to display error messages to users",
   "homepage": "https://github.com/carlh/Meteor-book-errors",
   "author": "Carl Hinkle",
